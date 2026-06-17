@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- badge -->
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#B91C1C"/>
+  <!-- fork -->
+  <path d="M22 16 V30 M18 16 V24 a4 4 0 0 0 8 0 V16 M22 30 V48" stroke="#FEE2E2" stroke-width="3" stroke-linecap="round"/>
+  <!-- knife -->
+  <path d="M42 16 C46 18 46 28 42 32 V48" stroke="#FEE2E2" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- star -->
+  <path d="M32 40 l1.6 3.4 3.7 .4 -2.8 2.5 .8 3.6 -3.3 -1.9 -3.3 1.9 .8 -3.6 -2.8 -2.5 3.7 -.4 Z" fill="#FBBF24"/>
+</svg>

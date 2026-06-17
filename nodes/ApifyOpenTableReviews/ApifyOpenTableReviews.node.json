@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-opentable-reviews-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Analytics"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/opentable-reviews-api?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"opentable",
+		"restaurant reviews",
+		"reviews",
+		"dining",
+		"restaurants",
+		"review monitoring",
+		"reputation",
+		"hospitality",
+		"diner reviews",
+		"apify"
+	]
+}
